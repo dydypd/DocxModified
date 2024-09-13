@@ -7,9 +7,11 @@ This project is a simple GUI application built with Python and Tkinter that allo
 - Load a `.docx` file and display its content.
 - Remove specified characters or phrases from the document.
 - Option to remove newline characters.
+- Use regular expressions for text removal.
+- Save and reuse regular expressions.
 - Preview the modified content before saving.
 - Save the modified content as a new `.docx` file.
-
+- 
 ## Requirements
 
 - Python 3.x
@@ -37,11 +39,13 @@ This project is a simple GUI application built with Python and Tkinter that allo
     ```
 
 2. Use the GUI to:
-    - Load a `.docx` file.
-    - Enter the characters or phrases to remove.
-    - Check the option to remove newline characters if needed.
-    - Preview the changes.
-    - Save the modified file.
+    - Load a `.docx` file and display its content.
+   - Remove specified characters or phrases from the document.
+   - Option to remove newline characters.
+   - Use regular expressions for text removal.
+   - Save and reuse regular expressions.
+   - Preview the modified content before saving.
+   - Save the modified content as a new `.docx` file.
 
 ## License
 
